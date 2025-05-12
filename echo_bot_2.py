@@ -3,7 +3,6 @@ from aiogram.filters import Command
 from aiogram.types import Message
 from tokenbot import TOKEN
 
-
 # Вместо BOT TOKEN HERE нужно вставить токен вашего бота,
 # полученный у @BotFather
 BOT_TOKEN = TOKEN
